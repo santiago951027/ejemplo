@@ -1,3 +1,1 @@
-export default resta(a,b){
-    return a - b;
-}
+// no se que poner
